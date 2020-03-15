@@ -9,8 +9,9 @@ Repositorio del grupo de estudio para resolver y estudiar los problemas propuest
 - [Resolviendo retos de Google Code Jam](https://medium.com/@davidenq/resolviendo-retos-de-google-code-jam-80f3a60a59b8)
 
 ## Problemas (y soluciones)
-- [00 A+B Problem](./Problemas/00-AB-Problem/descripcion.md)
-- [01 Foregone Solution](./Problemas/01-Foregone-Solution/descripcion.md)
+- [00 A+B Problem](./Problemas/00-AB-Problem/)
+- [01 Foregone Solution](./Problemas/01-Foregone-Solution/)
+- [02 Magic Trick](./Problemas/02-Magic-Trick/)
 
 Para agregar un problema al repositorio:
 - Favor de crear una subcarpeta dentro de [Problemas](./Problemas/) 
